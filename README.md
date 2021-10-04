@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# Kickstarter-Analysis
 Performing an analysis on Kickstarter data to uncover trends
 
 ## Overview
@@ -29,3 +29,7 @@ Other graphs that might be useful in the future are time to hit pledge goal (rat
 at lower rates once the goal is reached. Another useful graph might be the nature of the donation. For example, it would be ---
 more useful to know how many donations were from institutions vs more organic donations from people. Knowing the various ---
 demographics of those people would also be especially useful along with donation size.
+
+![1 3 Outcomes Based on Launch Date](https://user-images.githubusercontent.com/91306342/135795148-2779b9eb-4c50-4bf6-a3a2-e5e705d29ede.JPG)
+![1 3 Parent Category Chart](https://user-images.githubusercontent.com/91306342/135795150-bc3d4d59-8381-4d63-a959-d0f4816c29e3.JPG)
+
